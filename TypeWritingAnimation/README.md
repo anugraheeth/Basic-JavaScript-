@@ -11,8 +11,8 @@ This project demonstrates a simple typewriter effect using HTML, CSS, and JavaSc
 
 ## File Structure
 - **index.html**: The main file containing the HTML structure for the typewriter animation.
-- **CSS (within index.html)**: Handles the styling and keyframe animations for typing and the caret blinking effect.
-- **JavaScript (within index.html)**: Controls the logic for typing, erasing, and cycling through the phrases.
+- **style.css**: Handles the styling and keyframe animations for typing and the caret blinking effect.
+- **script.css**: Controls the logic for typing, erasing, and cycling through the phrases.
 
 ## How it Works
 
@@ -98,7 +98,7 @@ The JavaScript controls the text typing and erasing animations using the `setTim
   Example:
   ```javascript
   const texts = [
-      { text: "Web Developer", class: "type1" },
+      { text: "Computer Engineer", class: "type1" },
       { text: "Software Engineer", class: "type2" },
       { text: "Creative Thinker", class: "type3" }
   ];
