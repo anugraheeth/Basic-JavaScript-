@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+}
+.typewriter-container {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+.typewriter-text {
+    display: inline-block;
+    overflow: hidden;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    margin: 0;
+    letter-spacing: 0.15em;
+    animation: typing 3.5s steps(30, end),
+               blink-caret 0.75s step-end infinite;
+}
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #ffffff }
+}
+.type1 { color: #ff0000; }
+.type2 { color: #00ffee; }
+.type3 { color: #ae00ff; }
