@@ -1,7 +1,7 @@
 
 # Typewriter Animation Web Page
 
-This project demonstrates a simple typewriter effect using HTML, CSS, and JavaScript. It dynamically types and erases different roles or professions (e.g., UI/UX Designer, FullStack Developer, Graphic Designer) with a typewriter-style animation.
+This project demonstrates a simple typewriter effect using HTML, CSS, and JavaScript. It dynamically types and erases different roles or professions (e.g., Computer Engineer, Youtuber, Influencer) with a typewriter-style animation.
 
 ## Features
 - A rotating text effect that simulates typing and deleting text.
