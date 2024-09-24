@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color:black;
+}
+
+.counter-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(156, 156, 156, 0.1);
+    padding: 30px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.counter-container:hover {
+    transform: translateY(-5px);
+}
+
+.counter-title {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.counter-value {
+    font-size: 48px;
+    font-weight: bold;
+    color: #ff0000;
+    transition: color 0.3s ease;
+}
+
+.counter-value:hover {
+    color: #7700ff;
+}
