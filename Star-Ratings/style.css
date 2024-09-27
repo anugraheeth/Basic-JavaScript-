@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+
+.star-rating {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stars {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.star {
+    font-size: 68px;
+    color: #ccc;
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+}
+
+.star:hover,
+.star:hover ~ .star {
+    color: #ffd700;
+}
+
+.stars.selected .star {
+    color: #ccc;
+}
+
+.stars.selected .star.active {
+    color: #ffd700;
+}
+
+.star:before {
+    content: '★';
+}
+
+.rating-value {
+    color: white;
+    font-size: 24px;
+    margin-top: 10px;
+}
