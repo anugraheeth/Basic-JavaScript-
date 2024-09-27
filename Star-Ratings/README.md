@@ -19,8 +19,8 @@ This is a simple modern star rating system built with HTML, CSS, and JavaScript.
 - Hover over the stars to preview your rating.
 - Click on a star to select your rating.
 - The stars will change color based on your rating :
--   `RED for 1 ⭐`
--   `Light Orange for 2⭐`
--   `Yellow for 3 ⭐`
--   `Light Green for 4 ⭐`
--   `Green for 5 ⭐`
+  - `RED for 1 ⭐`
+  - `Light Orange for 2⭐`
+  - `Yellow for 3 ⭐`
+  - `Light Green for 4 ⭐`
+  - `Green for 5 ⭐`
