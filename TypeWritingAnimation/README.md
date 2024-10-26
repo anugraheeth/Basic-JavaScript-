@@ -3,6 +3,8 @@
 
 This project demonstrates a simple typewriter effect using HTML, CSS, and JavaScript. It dynamically types and erases different roles or professions (e.g., Computer Engineer, Youtuber, Influencer) with a typewriter-style animation.
 
+![TYPEWRITER ANIMATION](/assets/Typing.gif)
+
 ## Features
 - A rotating text effect that simulates typing and deleting text.
 - Multiple text phrases with different colors for each phrase.
