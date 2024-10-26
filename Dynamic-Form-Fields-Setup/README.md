@@ -2,6 +2,8 @@
 
 This project demonstrates how to dynamically add and remove form fields using HTML, CSS, and JavaScript.
 
+![DYNAMIC FORM FIELD](/assets/FormField.png)
+
 ## Features
 
 - Add new form fields dynamically by clicking the "Add Field" button.
