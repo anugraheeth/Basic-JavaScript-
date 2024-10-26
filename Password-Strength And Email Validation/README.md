@@ -2,6 +2,9 @@
 
 This project provides an account setup form that validates user input for email, password strength, and password confirmation.
 
+
+![SIGN IN FORM](/assets/Password.png)
+
 ## Project Structure
 
 - `index.html`: Contains the HTML structure of the form.
