@@ -2,6 +2,8 @@
 
 This is a simple modern star rating system built with HTML, CSS, and JavaScript.
 
+![STAR RATING](/assets/Rating.gif)
+
 ## Files:
 
 - `index.html`: Contains the structure of the webpage.
