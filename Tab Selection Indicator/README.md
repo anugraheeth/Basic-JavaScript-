@@ -2,6 +2,8 @@
 
 This project demonstrates a tab selection indication with a slider that moves when you select different options.
 
+![TAB](/assets/OptionSelection.png)
+
 ## Files
 - **index.html**: Contains the structure of the page.
 - **style.css**: Responsible for styling the page, including the dark theme and layout of the options and slider.
