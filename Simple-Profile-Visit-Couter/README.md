@@ -2,6 +2,8 @@
 
 This is a simple web page that displays a profile visit counter with a modern design. The counter starts from 0 and animates to a specified value when the page loads.
 
+![SIMPLE VISIT COUNTER](/assets/counter.gif)
+
 ## Files
 
 - **index.html**: Contains the structure of the page and includes the style and script files.
