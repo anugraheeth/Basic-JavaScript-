@@ -4,6 +4,13 @@
 
 This comprehensive guide covers essential techniques for manipulating the Document Object Model (DOM) using JavaScript. It's designed for web developers of all levels who want to create dynamic, interactive web applications by programmatically modifying web page content, structure, and style. Whether you're a beginner looking to understand the basics of DOM manipulation or an experienced developer seeking to refine your skills, this guide provides practical examples and explanations for a wide range of DOM-related tasks.
 
+# Basic JS Demos
+
+| Simple Visit Counter             | Type Writing Animation           | Star Rating Function             |
+|----------------------------------|----------------------------------|----------------------------------|
+| ![Image 1](assets/counter.gif) | ![Image 2](assets/Typing.gif) | ![Image 3](assets/Rating.gif) |
+
+
 ## Table of Contents
 
 1. [Selecting Elements](#1-selecting-elements)
