@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This comprehensive guide covers essential techniques for manipulating the Document Object Model (DOM) using JavaScript. It's designed for web developers of all levels who want to create dynamic, interactive web applications by programmatically modifying web page content, structure, and style. Whether you're a beginner looking to understand the basics of DOM manipulation or an experienced developer seeking to refine your skills, this guide provides practical examples and explanations for a wide range of DOM-related tasks.
+This comprehensive guide covers essential techniques for manipulating the Document Object Model (DOM) using JavaScript. It's designed for beginner web developers who want to create dynamic, interactive web applications by programmatically modifying web page content, structure, and style. 
+
+This repository also contains simple JavaScript functions in the code section to help bring your webpages to life—feel free to check them out!
 
 # Basic JS Demos
 
